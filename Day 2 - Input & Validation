@@ -1,0 +1,9 @@
+myName = input("What is your name?: ")
+myAge = input("How old are you? :")
+print("Gee, that's REALLY OLD")
+github = input("Do you like Github?")
+print("OF COURSE YOU DO")
+
+print(myName0
+print(myAge)
+print(github)
