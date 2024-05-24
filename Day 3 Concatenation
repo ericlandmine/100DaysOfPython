@@ -1,0 +1,9 @@
+yourName = input("Name: ")
+whatYear = input("What year is it?: ")
+print(yourName, "thinks it is", whatYear)
+
+foodName = input("Food: ")
+plantName = input("Plant: ")
+methodName = input("Method: ")
+print(foodName, plantName, "this is the recipe, methodName")
+
