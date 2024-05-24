@@ -1,6 +1,6 @@
-input = yourName("What is your name :")
-input = mySuperPower("What is your main super power :")
-input = myBackStory("As a child, I was dropped into a vat of radioactive sludge...")
+myName = input("What is your name :")
+mySuperPower = input("What is your main super power :")
+myBackStory = input("As a child, I was dropped into a vat of radioactive sludge...")
 
 
-print(myBackStory, "My name is yourName and my main superpower is", mySuperPower)
+print(myBackStory, "My name is ,('myName'), and my main superpower is", mySuperPower)
