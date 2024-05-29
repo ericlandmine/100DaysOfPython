@@ -1,0 +1,5 @@
+myName = input("What's my name?: ")
+if myName == "David":
+  print("Welcome Dude!")
+  print("You're cool Dude")
+else: print("WTF")
